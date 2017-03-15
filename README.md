@@ -12,7 +12,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-** Configuration **
+Configuration
 
 Enabled Features: BitTorrent, GZip, HTTPS, Message Digest, Metalink, XML-RPC, SFTP
 Hash Algorithms: sha-1, sha-224, sha-256, sha-384, sha-512, md5, adler32
