@@ -13,12 +13,16 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 ** Configuration **
+
 Enabled Features: BitTorrent, GZip, HTTPS, Message Digest, Metalink, XML-RPC, SFTP
 Hash Algorithms: sha-1, sha-224, sha-256, sha-384, sha-512, md5, adler32
+
 Libraries: zlib/1.2.7 libxml2/2.8.0 GnuTLS/2.12.20 libgcrypt/1.5.0 libssh2/1.4.2
+
 Compiler: gcc 4.9.2
   built by   armv7l-unknown-linux-gnueabihf
   on         Mar 15 2017 10:45:31
+  
 System: Linux 4.1.19-v7+ #858 SMP Tue Mar 15 15:56:00 GMT 2016 armv7l
 
 Report bugs to https://github.com/aria2/aria2/issues
